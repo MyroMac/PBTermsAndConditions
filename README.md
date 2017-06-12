@@ -22,11 +22,8 @@
   </ol>
 
 <h3>3. Disclaimer</h3>
-
-  <ol type="a">
-    <li>The materials on Pourboard's website are provided on an 'as is' basis. Pourboard makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</li>
-    <li>Further, Pourboard does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.</li>
-  </ol>
+    *The materials on Pourboard's website are provided on an 'as is' basis. Pourboard makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+    *Further, Pourboard does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
 
 <h3>4. Limitations</h3>
 
